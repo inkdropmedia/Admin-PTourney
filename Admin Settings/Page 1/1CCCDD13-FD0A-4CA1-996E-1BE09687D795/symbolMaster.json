@@ -7,7 +7,7 @@
     "green": 0.3555218962585034,
     "red": 0.3555218962585034
   },
-  "changeIdentifier": 0,
+  "changeIdentifier": 141,
   "do_objectID": "1CCCDD13-FD0A-4CA1-996E-1BE09687D795",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +27,7 @@
     "y": 274
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -50,6 +50,10 @@
     {
       "class": "symbolInstance",
       "id": "A5BE172B-A34C-4743-A197-5985F53D84EC"
+    },
+    {
+      "class": "text",
+      "id": "947AE630-231D-4E54-A974-9B473FE31A1F"
     }
   ],
   "name": "Admin Settings",
