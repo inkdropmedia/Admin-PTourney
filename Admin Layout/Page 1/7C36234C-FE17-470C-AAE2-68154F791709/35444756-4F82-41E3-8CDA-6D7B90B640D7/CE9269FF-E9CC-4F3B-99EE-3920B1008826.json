@@ -105,6 +105,16 @@
         "_ref": "images/0d4deb63f55f1d34e03a571fff8384d48d557e45",
         "_ref_class": "MSImageData"
       }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9169BB83-6A40-40D7-891F-29CB659766E6",
+      "overrideName": "EB5A1D6E-1018-465B-8C9E-B48937733E18_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/d1e85ead652c7fbfb0106efbaa5dda121f06e6c1",
+        "_ref_class": "MSImageData"
+      }
     }
   ],
   "overrides": {
@@ -117,7 +127,7 @@
     "4752CA76-3185-42EC-B21D-BFCBF975F7E2": "Cole Gutierrez",
     "EB5A1D6E-1018-465B-8C9E-B48937733E18": {
       "_class": "MSJSONFileReference",
-      "_ref": "images/3938f6a40513c251749f521f04dcb7e66e98b334",
+      "_ref": "images/d1e85ead652c7fbfb0106efbaa5dda121f06e6c1",
       "_ref_class": "MSImageData"
     }
   },
