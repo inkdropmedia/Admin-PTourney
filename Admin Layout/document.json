@@ -65275,7 +65275,7 @@
           "green": 1,
           "red": 1
         },
-        "changeIdentifier": 29,
+        "changeIdentifier": 32,
         "do_objectID": "0B067819-7FF9-4B14-80C5-273DBC1D94E5",
         "exportOptions": {
           "_class": "exportOptions",
@@ -65489,7 +65489,7 @@
                       "fillType": 4,
                       "image": {
                         "_class": "MSJSONFileReference",
-                        "_ref": "images/d913e81db5ad7d887dc25f72ca569b4a97ff9bfe",
+                        "_ref": "images/17c0279af655ec5d3938b2ea2ab7f4806fd23cb8",
                         "_ref_class": "MSImageData"
                       },
                       "isEnabled": true,
@@ -65534,59 +65534,7 @@
                       "asTile": 0,
                       "items": [
                         {
-                          "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpMJWC6s8iPsE1HemJD8bTkSSKv1AW14moCwps893fxoME9FnFGq2bPCyX",
-                          "type": "src"
-                        },
-                        {
-                          "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjmiF0DpsFfgP0OehHt1k9UL47_y6dn0vBelIYcbVvnAOtabn752-KO14",
-                          "type": "src"
-                        },
-                        {
-                          "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIcIoqqA2B-aRhAat3XxInMjL_OhF-rc3KpLxlgTpIecqeP5VYCk1v3Jqc",
-                          "type": "src"
-                        },
-                        {
-                          "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw1ao4iA_uteh97ZtUG00SbSa0G3iXV6IT8Pfod78r0UTPSm0AMxtAWos",
-                          "type": "src"
-                        },
-                        {
-                          "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTENCQ5mIxYvRtuH7CDakL1y6HC1looBrD4WLAiYCoHQqG6KV1DZ4_ZPxNf",
-                          "type": "src"
-                        },
-                        {
-                          "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJp4eTfow7SROcHJzeV5o2zs1VdObZw2oJxHBo4COUaClHwWQ3zbBn8zIG",
-                          "type": "src"
-                        },
-                        {
-                          "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2GQDv624c_JCrlvcVuRI1eaEozvmxslM30ngm4z8SUNqB6IROapR-Q2U",
-                          "type": "src"
-                        },
-                        {
-                          "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF9dVfiIZsIE7XfOVb1bDc0cR-1ZZIdYQ0i7zrQhdzW1S_VYiT8hiQO0Pt",
-                          "type": "src"
-                        },
-                        {
-                          "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvBWEOPmM0LyIMkkEzV_eOKoF9937Pyzh1zGRUWRinBMu-XYHO4uZa17A",
-                          "type": "src"
-                        },
-                        {
-                          "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR25d7btmu-t8m9kO2dVEBPhZM_7kIDE22lXF0ePbH-5qgp0DMYos4SoQg",
-                          "type": "src"
-                        },
-                        {
-                          "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrWYguopK23kmRJCCTEyDaKwrpFqYMjI7dPKrqSomgD6ZaV1yC9RATOp2j",
-                          "type": "src"
-                        },
-                        {
-                          "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD2iMLivR2918KiNl4NcsUTaJTyCwzK7YYmUIV5Vyc5ZpyW-b2TmUSHrM",
-                          "type": "src"
-                        },
-                        {
-                          "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMxNAs07rWN29ZN1MtuQpKbHepnwa3Ma88RZpCMUD5KZMtJlDYeY_zP1Y7",
-                          "type": "src"
-                        },
-                        {
-                          "link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd77apN5azS0JaJFldjagU1tsSXvv2zM7KTKcHCutVYa0LASSSmDU9eQ0",
+                          "link": "https://vignette.wikia.nocookie.net/arianagrande/images/4/4d/Silly_cat.jpg/revision/latest?cb=20140513151421",
                           "type": "src"
                         }
                       ],
