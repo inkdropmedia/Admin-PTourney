@@ -1,6 +1,6 @@
 {
   "_class": "group",
-  "do_objectID": "35444756-4F82-41E3-8CDA-6D7B90B640D7",
+  "do_objectID": "BD598369-0791-4D18-8968-45E825AF18C5",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,10 +13,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 534,
+    "height": 221,
     "width": 375,
-    "x": 35,
-    "y": 372
+    "x": 1221,
+    "y": 127
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
@@ -27,46 +27,58 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "29AD0DC8-4B01-4821-91E7-FCD3641DD93C"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "BF392789-51A3-4892-A4A8-F37169B657CF"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "9295FBAA-F86F-4E75-8ECF-8E4F3CAE52BF"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "25CCCD97-76C1-41A8-9816-16B29A23CFE2"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "CE9269FF-E9CC-4F3B-99EE-3920B1008826"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "029F9A68-6BA5-495D-B70C-276CE06EC240"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "EE1B36CA-F178-41B1-B936-C2D66A05C11F"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "F8A044C4-9A84-473C-8BD3-2C809F323D8D"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "2D46C441-DBC6-47B8-A4A9-E4AD1A4751CE"
+      "id": "5A4F6131-ACB1-46D3-BF52-C8C4699FF9F1"
     },
     {
       "class": "text",
-      "id": "297C9F77-DED2-467E-85EE-9D466830084D"
+      "id": "DCBD9885-FD23-418D-B67F-68B5AA2397B0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "70F17CAB-4A81-45EE-A14A-464346BE16BB"
+    },
+    {
+      "class": "text",
+      "id": "CA5EE8F9-9900-4248-97D9-FC9AB60C7FD6"
+    },
+    {
+      "class": "text",
+      "id": "D3A28D03-1A3E-4430-BA02-689CEBAFA9C9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3AA39254-EEAF-40F7-9835-E376FB259341"
+    },
+    {
+      "class": "text",
+      "id": "114EA746-9BCB-4E27-932B-2871CEE09597"
+    },
+    {
+      "class": "text",
+      "id": "8EC2E68F-18C8-439D-9CA9-28A2D4B79811"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9D972529-2CBD-467A-9A23-58CDA22551FF"
+    },
+    {
+      "class": "text",
+      "id": "40FFB676-2963-4417-A1C8-C1A0D0224E62"
+    },
+    {
+      "class": "text",
+      "id": "CF888762-6FDD-44C0-A703-9799E373B5EF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "382E4C2C-80D4-4CA8-B33B-38435977B2E9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FBC69A27-DD8F-40D9-8636-06579ADE9F1F"
     }
   ],
-  "name": "Registered Teams",
+  "name": "Brackets",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,

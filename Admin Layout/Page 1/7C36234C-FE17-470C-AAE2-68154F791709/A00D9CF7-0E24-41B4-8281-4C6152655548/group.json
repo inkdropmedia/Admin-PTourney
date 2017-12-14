@@ -1,6 +1,6 @@
 {
   "_class": "group",
-  "do_objectID": "7E9DF064-9FC2-4F30-AB37-A587A681E04A",
+  "do_objectID": "A00D9CF7-0E24-41B4-8281-4C6152655548",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,10 +13,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 221,
+    "height": 583,
     "width": 375,
-    "x": 38,
-    "y": 127
+    "x": 35,
+    "y": 926
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
@@ -27,34 +27,10 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "3F67EA85-8781-4339-837B-517E1698BFFC"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "CC52334C-BBFE-446C-9222-2E72DA8A89AC"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "03981310-E625-4918-8F9D-1505DFDD7F7C"
-    },
-    {
-      "class": "text",
-      "id": "E8355ABD-12A8-4FE6-8815-684BB9178576"
-    },
-    {
-      "class": "text",
-      "id": "0397DB09-590D-401C-B7B6-0BD6C1157B99"
-    },
-    {
-      "class": "text",
-      "id": "A74F5413-E4F6-4578-BE61-7AD0EBBA95DE"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "CD945856-B270-4CB2-A755-68CA4F3EE32B"
+      "id": "F3137441-FCD6-4576-A60B-57D95FEEEA4D"
     }
   ],
-  "name": "Active/Upcoming Tourney",
+  "name": "Revenue",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,

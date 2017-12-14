@@ -1,7 +1,7 @@
 {
   "_class": "shapeGroup",
   "clippingMaskMode": 0,
-  "do_objectID": "08AC68E3-2F9C-4B49-A054-EE5F823DE8EB",
+  "do_objectID": "B53AEBB0-A057-427B-BBEE-AAB80DC026B6",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -29,7 +29,7 @@
   "layers": [
     {
       "class": "rectangle",
-      "id": "AD9E825D-E438-4024-87E4-53427EEB38E6"
+      "id": "3219A08F-B63E-415C-8299-308711709D78"
     }
   ],
   "name": "Mask",

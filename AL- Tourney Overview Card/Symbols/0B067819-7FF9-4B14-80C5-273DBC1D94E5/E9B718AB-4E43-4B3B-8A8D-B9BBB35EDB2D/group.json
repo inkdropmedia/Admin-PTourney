@@ -1,6 +1,6 @@
 {
   "_class": "group",
-  "do_objectID": "7E9DF064-9FC2-4F30-AB37-A587A681E04A",
+  "do_objectID": "E9B718AB-4E43-4B3B-8A8D-B9BBB35EDB2D",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,47 +15,27 @@
     "constrainProportions": false,
     "height": 221,
     "width": 375,
-    "x": 38,
-    "y": 127
+    "x": 0,
+    "y": 0
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "3F67EA85-8781-4339-837B-517E1698BFFC"
+      "class": "shapeGroup",
+      "id": "B53AEBB0-A057-427B-BBEE-AAB80DC026B6"
     },
     {
       "class": "symbolInstance",
-      "id": "CC52334C-BBFE-446C-9222-2E72DA8A89AC"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "03981310-E625-4918-8F9D-1505DFDD7F7C"
-    },
-    {
-      "class": "text",
-      "id": "E8355ABD-12A8-4FE6-8815-684BB9178576"
-    },
-    {
-      "class": "text",
-      "id": "0397DB09-590D-401C-B7B6-0BD6C1157B99"
-    },
-    {
-      "class": "text",
-      "id": "A74F5413-E4F6-4578-BE61-7AD0EBBA95DE"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "CD945856-B270-4CB2-A755-68CA4F3EE32B"
+      "id": "92CF8BF8-AFE2-4DB7-A349-E5AEEC3DC6AA"
     }
   ],
-  "name": "Active/Upcoming Tourney",
-  "nameIsFixed": true,
+  "name": "steam",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

@@ -102,8 +102,8 @@
       "id": "468BD565-1747-4EFD-A413-742B986B8FC2"
     }
   ],
-  "name": "Group 3",
-  "nameIsFixed": false,
+  "name": "Registration",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

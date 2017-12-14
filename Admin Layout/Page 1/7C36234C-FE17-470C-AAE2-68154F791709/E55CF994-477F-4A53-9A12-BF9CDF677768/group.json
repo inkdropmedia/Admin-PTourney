@@ -1,6 +1,6 @@
 {
   "_class": "group",
-  "do_objectID": "35444756-4F82-41E3-8CDA-6D7B90B640D7",
+  "do_objectID": "E55CF994-477F-4A53-9A12-BF9CDF677768",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,60 +13,60 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 534,
+    "height": 221,
     "width": 375,
-    "x": 35,
-    "y": 372
+    "x": 827,
+    "y": 127
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "29AD0DC8-4B01-4821-91E7-FCD3641DD93C"
+      "id": "B328AFE3-CD08-4E0D-9A8D-6A8520C57D59"
     },
     {
       "class": "symbolInstance",
-      "id": "BF392789-51A3-4892-A4A8-F37169B657CF"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "9295FBAA-F86F-4E75-8ECF-8E4F3CAE52BF"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "25CCCD97-76C1-41A8-9816-16B29A23CFE2"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "CE9269FF-E9CC-4F3B-99EE-3920B1008826"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "029F9A68-6BA5-495D-B70C-276CE06EC240"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "EE1B36CA-F178-41B1-B936-C2D66A05C11F"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "F8A044C4-9A84-473C-8BD3-2C809F323D8D"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "2D46C441-DBC6-47B8-A4A9-E4AD1A4751CE"
+      "id": "07D93D51-0F0C-45CF-B492-C2EA4C6F1430"
     },
     {
       "class": "text",
-      "id": "297C9F77-DED2-467E-85EE-9D466830084D"
+      "id": "7BAAEE1D-2C1E-4C37-8F44-E72B4192BE1E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6BF6D8D3-BA29-48AB-B6FA-E894AF2C739A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DD8DFAD8-897F-4B35-B2D7-09DF7A624B9F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "79E53C27-1FA8-4F8A-9513-2F1310D939C6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0F5085D2-24A6-4236-97DE-4D11E7955C66"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "24D6F041-7B8D-4D10-A930-8105E9B429C9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "ADA2F21A-0340-4DE6-A8B8-F75EBC7553CA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "90AA6B4E-541C-4602-9E79-51475B9CEBE2"
     }
   ],
-  "name": "Registered Teams",
+  "name": "Divisions",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
