@@ -1,0 +1,75 @@
+{
+  "_class": "group",
+  "do_objectID": "7E9DF064-9FC2-4F30-AB37-A587A681E04A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 221,
+    "width": 375,
+    "x": 38,
+    "y": 127
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "3F67EA85-8781-4339-837B-517E1698BFFC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CC52334C-BBFE-446C-9222-2E72DA8A89AC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "03981310-E625-4918-8F9D-1505DFDD7F7C"
+    },
+    {
+      "class": "text",
+      "id": "E8355ABD-12A8-4FE6-8815-684BB9178576"
+    },
+    {
+      "class": "text",
+      "id": "0397DB09-590D-401C-B7B6-0BD6C1157B99"
+    },
+    {
+      "class": "text",
+      "id": "A74F5413-E4F6-4578-BE61-7AD0EBBA95DE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CD945856-B270-4CB2-A755-68CA4F3EE32B"
+    }
+  ],
+  "name": "Active/Upcoming Tourney",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

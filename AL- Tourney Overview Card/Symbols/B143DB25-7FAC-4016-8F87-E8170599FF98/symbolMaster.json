@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 13837,
+  "changeIdentifier": 18883,
   "do_objectID": "B143DB25-7FAC-4016-8F87-E8170599FF98",
   "exportOptions": {
     "_class": "exportOptions",
@@ -60,20 +60,12 @@
       "id": "74BFD7E5-60FE-4031-B03B-76D959E5BB56"
     },
     {
-      "class": "group",
-      "id": "10D8D6E9-4412-4951-B34F-A111152044D5"
-    },
-    {
-      "class": "group",
-      "id": "361ADD25-4377-4E93-9386-C1FA58C68899"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "636A0690-2028-4034-9AB6-0773B792AAE0"
-    },
-    {
       "class": "text",
       "id": "35267AEB-5778-4D02-A00B-4B91D2CEB04D"
+    },
+    {
+      "class": "group",
+      "id": "10C3E8A1-F18E-4074-9F1E-274B638AC992"
     }
   ],
   "name": "Tourney",
