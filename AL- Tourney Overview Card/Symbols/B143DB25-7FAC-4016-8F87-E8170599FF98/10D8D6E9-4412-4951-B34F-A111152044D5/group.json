@@ -1,0 +1,89 @@
+{
+  "_class": "group",
+  "do_objectID": "10D8D6E9-4412-4951-B34F-A111152044D5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 80,
+    "width": 764,
+    "x": 50,
+    "y": 462
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "0441EB0F-1A4C-48B7-8C15-80EC6EA48BFC"
+    },
+    {
+      "class": "text",
+      "id": "756CEACA-2F9E-4732-9292-25B798A1DBEF"
+    },
+    {
+      "class": "text",
+      "id": "AF1A7825-B9F0-4DD7-97E1-62C422E250CF"
+    },
+    {
+      "class": "text",
+      "id": "0FB7538A-FEA7-4004-B4CD-DFF9AFF80A08"
+    },
+    {
+      "class": "text",
+      "id": "EBC3A0F5-E32F-484E-852C-E527AC81A774"
+    }
+  ],
+  "name": "# of Teams",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 4,
+        "color": {
+          "_class": "color",
+          "alpha": 0.5,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": false,
+        "offsetX": 0,
+        "offsetY": 2,
+        "spread": 0
+      }
+    ],
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

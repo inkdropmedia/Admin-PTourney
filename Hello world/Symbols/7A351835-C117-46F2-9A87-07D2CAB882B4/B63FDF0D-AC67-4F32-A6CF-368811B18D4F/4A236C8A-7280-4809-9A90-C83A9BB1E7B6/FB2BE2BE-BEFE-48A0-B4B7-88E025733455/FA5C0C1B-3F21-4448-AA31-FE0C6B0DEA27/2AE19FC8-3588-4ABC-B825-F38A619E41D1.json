@@ -1,0 +1,72 @@
+{
+  "_class": "triangle",
+  "booleanOperation": 1,
+  "do_objectID": "2AE19FC8-3588-4ABC-B825-F38A619E41D1",
+  "edited": true,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 46.2370847858163,
+    "width": 142,
+    "x": 0,
+    "y": -1.4210854715202e-14
+  },
+  "isEquilateral": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": true,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Triangle 31 Copy",
+  "nameIsFixed": false,
+  "path": {
+    "_class": "path",
+    "isClosed": true,
+    "pointRadiusBehaviour": 0,
+    "points": [
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 4,
+        "curveFrom": "{0.50055233360950024, -0.028201234831361041}",
+        "curveMode": 1,
+        "curveTo": "{0.50055233360950024, -0.028201234831361041}",
+        "hasCurveFrom": false,
+        "hasCurveTo": false,
+        "point": "{0.50055233360950024, -0.028201234831361041}"
+      },
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 0,
+        "curveFrom": "{1.0011046672190005, 0.99388443845056462}",
+        "curveMode": 1,
+        "curveTo": "{1.0011046672190005, 0.99388443845056462}",
+        "hasCurveFrom": false,
+        "hasCurveTo": false,
+        "point": "{1, 1}"
+      },
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 0,
+        "curveFrom": "{0, 0.99388443845056462}",
+        "curveMode": 1,
+        "curveTo": "{0, 0.99388443845056462}",
+        "hasCurveFrom": false,
+        "hasCurveTo": false,
+        "point": "{0, 1}"
+      }
+    ]
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false
+}

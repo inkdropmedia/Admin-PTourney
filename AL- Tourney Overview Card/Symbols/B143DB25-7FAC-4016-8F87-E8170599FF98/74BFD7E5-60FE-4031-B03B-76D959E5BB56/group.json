@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "do_objectID": "74BFD7E5-60FE-4031-B03B-76D959E5BB56",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 491,
+    "width": 370,
+    "x": 743,
+    "y": 200
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "A6EF77B4-AF96-4B71-B953-4C1AA2429C20"
+    },
+    {
+      "class": "text",
+      "id": "34459B44-F12B-4D5E-9B50-F1E98E2DF361"
+    },
+    {
+      "class": "text",
+      "id": "F7A411F9-D608-4685-AB7C-912A339C88A3"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "38EAA270-A67B-4B43-8F16-85FCACF45742"
+    }
+  ],
+  "name": "Map",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}
