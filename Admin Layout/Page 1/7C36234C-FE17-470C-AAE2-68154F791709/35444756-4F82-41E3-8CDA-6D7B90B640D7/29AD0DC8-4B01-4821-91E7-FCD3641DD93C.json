@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "29AD0DC8-4B01-4821-91E7-FCD3641DD93C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 534,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 6,
+  "masterInfluenceEdgeMaxYPadding": 8,
+  "masterInfluenceEdgeMinXPadding": 6,
+  "masterInfluenceEdgeMinYPadding": 6,
+  "name": "Box",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CC0E5ACC-8F56-4E7B-8921-82424EBF5643",
+      "overrideName": "A9EB04F1-08FA-4181-8A65-53BF0E1589BE_stringValue",
+      "value": "Current Teams"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C31218BB-2043-4566-83AC-DFB394460174",
+      "overrideName": "43B61AA2-F727-46A9-8D8B-6778C5F3B718_stringValue",
+      "value": "Registered Teams"
+    }
+  ],
+  "overrides": {
+    "43B61AA2-F727-46A9-8D8B-6778C5F3B718": "Registered Teams",
+    "A9EB04F1-08FA-4181-8A65-53BF0E1589BE": "Current Teams"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "831D1CAA-AD6B-4B98-9963-D42C447F3084",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

@@ -1,0 +1,150 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "25CCCD97-76C1-41A8-9816-16B29A23CFE2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 45,
+    "width": 298,
+    "x": 26,
+    "y": 156
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 1,
+  "masterInfluenceEdgeMaxYPadding": 1,
+  "masterInfluenceEdgeMinXPadding": 1,
+  "masterInfluenceEdgeMinYPadding": 1,
+  "name": "Team Bock",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "89C031FE-2A3E-4D04-9D28-2E7861BBA073",
+      "overrideName": "EB5A1D6E-1018-465B-8C9E-B48937733E18_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/a3cde63b43f7217753e61f4da7c9cc09fe01da03",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BBE4FDB3-EEA0-42B4-88A5-9DAD1FD27856",
+      "overrideName": "4238A73F-D5A9-41A6-A2F4-5AB849C08BD3_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/3938f6a40513c251749f521f04dcb7e66e98b334",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2E1942A0-CF4E-4296-8B32-FD6BF2F5A49C",
+      "overrideName": "EB5A1D6E-1018-465B-8C9E-B48937733E18_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/85fa84a35c322a576650b6099b2c32d2cd029b4b",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F802A864-49A1-4B38-BA32-4310AEE5F0C1",
+      "overrideName": "4752CA76-3185-42EC-B21D-BFCBF975F7E2_stringValue",
+      "value": "Cole Gutierrez"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "17BFBB79-A5E1-47C7-BA5B-7641A1FBB6C2",
+      "overrideName": "3E37B5FA-6660-4EC8-978D-FD1CDB7F3FC8_stringValue",
+      "value": "Terry Sullivan"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "38CB5038-7B2B-4896-9D23-CDF67F8C3B60",
+      "overrideName": "EB5A1D6E-1018-465B-8C9E-B48937733E18_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/7624af08356c77dd43f011916c73da13c4c3e461",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "130B4C18-3C34-4659-8F81-EC78C82A6B0D",
+      "overrideName": "4238A73F-D5A9-41A6-A2F4-5AB849C08BD3_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/6deb7a0a64193e740f9f597f05389e3946240e41",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8BDBCA9E-E2A2-488E-B0EF-8B512299CA4B",
+      "overrideName": "EB5A1D6E-1018-465B-8C9E-B48937733E18_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/7a3636b1ffea2b580355f9c316b11d321ca2874e",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1525D638-BD33-4D03-B674-D15772113472",
+      "overrideName": "4238A73F-D5A9-41A6-A2F4-5AB849C08BD3_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/8b6672effbf45615ec0d70396cbf41de9b5ec573",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "overrides": {
+    "3E37B5FA-6660-4EC8-978D-FD1CDB7F3FC8": "Terry Sullivan",
+    "4238A73F-D5A9-41A6-A2F4-5AB849C08BD3": {
+      "_class": "MSJSONFileReference",
+      "_ref": "images/8b6672effbf45615ec0d70396cbf41de9b5ec573",
+      "_ref_class": "MSImageData"
+    },
+    "4752CA76-3185-42EC-B21D-BFCBF975F7E2": "Cole Gutierrez",
+    "EB5A1D6E-1018-465B-8C9E-B48937733E18": {
+      "_class": "MSJSONFileReference",
+      "_ref": "images/7a3636b1ffea2b580355f9c316b11d321ca2874e",
+      "_ref_class": "MSImageData"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "3F35CAB1-DD9A-4DFC-8FFA-D8490344ACD0",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}
