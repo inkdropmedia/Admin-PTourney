@@ -27,4 +27,9 @@ Temporary Items
 
 # Sketch files
 *.sketch
+<<<<<<< HEAD
 Admin Settings/document.json
+=======
+*.json
+*.json
+>>>>>>> 53698817dab620d9c740da2c4e04f0fff4ea7029
